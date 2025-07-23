@@ -5,7 +5,7 @@ a = Analysis(
     ['interfaz.py'],
     pathex=[],
     binaries=[],
-    datas=[('weights/last.pt', 'weights')],
+    datas=[],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
